@@ -1,0 +1,12 @@
+h1,h2,h3,p{
+    color: rgb(255, 255, 255);
+}
+
+h2{
+    text-align: center;
+}
+
+body{
+    background-image: url(TRUENO.jpg);
+}
+
